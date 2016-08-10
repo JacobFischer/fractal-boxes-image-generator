@@ -39,6 +39,8 @@ The four steps are 25% darker.
 
 ## Demo
 
+*Refresh rendered page to generate new images*
+
 ![demo green](http://fractalboxes.jacobfischer.me/?width=1000&height=270&transparents=0.30&from=top&colors[]=47CD32)
 
 ![demo merica](http://fractalboxes.jacobfischer.me/?width=1000&height=270&colors[]=CD0000&colors[]=CDCDCD&colors[]=0000DC&from=left&steps=2)
